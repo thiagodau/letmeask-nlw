@@ -4,7 +4,7 @@ Mission: React JS | Next Level Week Rocketseat | [Repositório - Rocketseat](htt
 <br/> :rocket: NLW Together - React JS | (5 aulas)
 
 - Aula 01 Liftoff [concluido]
-- Aula 02 Maximum Speed [a fazer]
+- Aula 02 Maximum Speed [concluido]
 - Aula 03 In Orbit [a fazer]
 - Aula 04 Landing [a fazer]
 - Aula 05 Surface Exploration [a fazer]
