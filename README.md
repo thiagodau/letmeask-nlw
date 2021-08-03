@@ -6,7 +6,7 @@ Mission: React JS | Next Level Week Rocketseat | [Repositório - Rocketseat](htt
 - Aula 01 Liftoff [concluido]
 - Aula 02 Maximum Speed [concluido]
 - Aula 03 In Orbit [concluido]
-- Aula 04 Landing [a fazer]
+- Aula 04 Landing [concluido]
 - Aula 05 Surface Exploration [a fazer]
 
 <br/> :email: &nbsp; Contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagorodriguesdau/)](https://www.linkedin.com/in/thiagorodriguesdau/)
